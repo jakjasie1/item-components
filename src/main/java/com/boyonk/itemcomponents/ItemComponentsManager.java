@@ -274,4 +274,3 @@ public class ItemComponentsManager implements SimpleSynchronousResourceReloadLis
 
 
 }
-
